@@ -8,7 +8,8 @@ An overview of a high-uptime, multi-user infrastructure designed for stability, 
 
 ## 🗺️ Visual Network Topology
 View the system structure:
-![Scrappylabs Network Topology](/home/bbibbigi/Documents/lab_stuff/Homelab_Documents/diagrams/network_logic_v1.png)
+![Scrappylabs Network Topology](Homelab_Documents/diagrams/network_logic_v1.png)
+
 
 ---
 
