@@ -1,0 +1,11 @@
+.ssh/
+proxmox-ca.crt
+proxmox-ca-crt
+backups/
+Spare configs/
+ai-memory-cloud/
+.DS_Store
+Thumbs.db
+Homelab_Documents/.directory
+uh vlans.pdf
+Homelab_Documents/topology/
